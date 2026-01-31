@@ -62,3 +62,9 @@ Thumbs.db
 
 # Sensitive documentation (maintainer-only content)
 MAINTAINER_MANUAL.md
+CONFIGURATION_ACTUELLE.md
+
+# Backup files
+*.backup
+*.backup.*
+api_key_backup.txt
